@@ -1,0 +1,968 @@
+﻿Year,Quarter,LGA (Local Government Areas),Dwelling Types,Bedroom Numbers,"First Quartile Weekly Rent for New Bonds
+$","Median Weekly Rent for New Bonds
+$","Third Quartile Weekly Rent for New Bonds
+$","New Bonds Lodged
+No.","Total Bonds Held
+No.",Quarterly change in Median Weekly Rent,Annual change in Median Weekly Rent,Quarterly change in New Bonds Lodged,Annual change in New Bonds Lodged
+2019,Second,Albury,Total,Total,220,275,340,623,"6,095",-5.17%,1.85%,-16.93%,-5.03%
+2019,Second,Albury,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,Total,1 Bedroom,165,178,200,50,496,1.43%,4.41%,-12.28%,11.11%
+2019,Second,Albury,Total,Not Specified,-,-,-,-,214,-,-,-,-
+2019,Second,Albury,Total,2 Bedrooms,190,235,265,255,"2,341",0.00%,2.17%,-5.56%,0.00%
+2019,Second,Albury,Total,3 Bedrooms,280,310,348,227,"2,141",-3.12%,6.90%,-22.53%,-9.56%
+2019,Second,Albury,Total,4 or more Bedrooms,360,400,430,83,893,0.00%,2.56%,-29.66%,-16.16%
+2019,Second,Albury,House,Total,275,320,370,312,"2,909",-3.03%,3.23%,-22.96%,-11.11%
+2019,Second,Albury,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,House,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Albury,House,Not Specified,-,-,-,-,73,-,-,-,-
+2019,Second,Albury,House,2 Bedrooms,213,250,279,50,322,-4.76%,-1.96%,-16.67%,16.28%
+2019,Second,Albury,House,3 Bedrooms,280,313,350,176,"1,639",-1.57%,5.93%,-17.76%,-14.15%
+2019,Second,Albury,House,4 or more Bedrooms,364,400,430,80,845,0.00%,2.56%,-31.03%,-16.67%
+2019,Second,Albury,Other,Total,-,-,-,-,367,-,-,-,-
+2019,Second,Albury,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,Other,1 Bedroom,-,-,-,-,56,-,-,-,-
+2019,Second,Albury,Other,Not Specified,-,-,-,-,80,-,-,-,-
+2019,Second,Albury,Other,2 Bedrooms,-,-,-,-,125,-,-,-,-
+2019,Second,Albury,Other,3 Bedrooms,-,-,-,-,78,-,-,-,-
+2019,Second,Albury,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Albury,Townhouse,Total,270,305,350,50,511,-2.40%,3.39%,-32.43%,-3.85%
+2019,Second,Albury,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,Townhouse,2 Bedrooms,244,278,303,s,274,1.83%,0.00%,-20.00%,-14.29%
+2019,Second,Albury,Townhouse,3 Bedrooms,299,340,350,s,211,3.82%,9.68%,-45.45%,14.29%
+2019,Second,Albury,Townhouse,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Albury,Flat/Unit,Total,180,210,255,253,"2,308",-2.33%,0.00%,-2.32%,3.69%
+2019,Second,Albury,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Albury,Flat/Unit,1 Bedroom,165,178,200,46,412,4.41%,4.41%,-2.13%,24.32%
+2019,Second,Albury,Flat/Unit,Not Specified,-,-,-,-,55,-,-,-,-
+2019,Second,Albury,Flat/Unit,2 Bedrooms,180,220,250,179,"1,620",0.00%,4.76%,0.56%,-0.56%
+2019,Second,Albury,Flat/Unit,3 Bedrooms,260,280,296,s,213,3.70%,7.69%,-25.00%,-4.00%
+2019,Second,Albury,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Total,Total,250,300,380,305,"3,350",0.00%,0.00%,-33.55%,0.00%
+2019,Second,Armidale Regional,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Total,1 Bedroom,164,181,200,32,363,-4.61%,0.69%,-37.25%,-30.43%
+2019,Second,Armidale Regional,Total,Not Specified,-,-,-,-,178,-,-,-,-
+2019,Second,Armidale Regional,Total,2 Bedrooms,230,250,278,86,"1,080",-3.85%,-3.85%,-41.89%,-14.85%
+2019,Second,Armidale Regional,Total,3 Bedrooms,295,348,380,124,"1,184",2.21%,2.21%,-23.46%,25.25%
+2019,Second,Armidale Regional,Total,4 or more Bedrooms,365,420,473,60,538,0.00%,2.44%,-34.07%,5.26%
+2019,Second,Armidale Regional,House,Total,280,350,400,198,"1,807",2.94%,2.94%,-29.03%,11.24%
+2019,Second,Armidale Regional,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,House,1 Bedroom,134,168,200,s,68,8.06%,-1.47%,-45.45%,-20.00%
+2019,Second,Armidale Regional,House,Not Specified,-,-,-,-,46,-,-,-,-
+2019,Second,Armidale Regional,House,2 Bedrooms,230,250,285,s,213,-3.85%,-10.71%,-34.21%,0.00%
+2019,Second,Armidale Regional,House,3 Bedrooms,300,350,380,101,959,2.94%,2.94%,-22.31%,23.17%
+2019,Second,Armidale Regional,House,4 or more Bedrooms,368,420,475,59,520,0.00%,2.44%,-32.18%,5.36%
+2019,Second,Armidale Regional,Other,Total,-,-,-,-,208,-,-,-,-
+2019,Second,Armidale Regional,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Other,1 Bedroom,-,-,-,-,48,-,-,-,-
+2019,Second,Armidale Regional,Other,Not Specified,-,-,-,-,81,-,-,-,-
+2019,Second,Armidale Regional,Other,2 Bedrooms,-,-,-,-,41,-,-,-,-
+2019,Second,Armidale Regional,Other,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Armidale Regional,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,Total,-,-,-,-,72,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,3 Bedrooms,-,-,-,-,46,-,-,-,-
+2019,Second,Armidale Regional,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Flat/Unit,Total,200,250,283,96,"1,263",0.00%,4.17%,-38.46%,-15.79%
+2019,Second,Armidale Regional,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Armidale Regional,Flat/Unit,1 Bedroom,175,188,200,s,246,-6.25%,-1.32%,-20.00%,-28.57%
+2019,Second,Armidale Regional,Flat/Unit,Not Specified,-,-,-,-,50,-,-,-,-
+2019,Second,Armidale Regional,Flat/Unit,2 Bedrooms,224,250,270,60,803,0.00%,-1.96%,-41.18%,-17.81%
+2019,Second,Armidale Regional,Flat/Unit,3 Bedrooms,300,320,373,s,152,-8.57%,-3.03%,-33.33%,23.08%
+2019,Second,Armidale Regional,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Total,Total,380,478,580,350,"3,787",-0.52%,6.11%,-0.57%,3.24%
+2019,Second,Ballina,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Total,1 Bedroom,246,298,360,s,215,6.25%,14.42%,86.67%,40.00%
+2019,Second,Ballina,Total,Not Specified,-,-,-,-,196,-,-,-,-
+2019,Second,Ballina,Total,2 Bedrooms,340,380,420,107,"1,227",-2.56%,0.00%,-13.01%,-8.55%
+2019,Second,Ballina,Total,3 Bedrooms,450,500,580,128,"1,564",-3.85%,2.04%,-11.11%,-2.29%
+2019,Second,Ballina,Total,4 or more Bedrooms,580,625,660,77,580,4.17%,-0.79%,16.67%,26.23%
+2019,Second,Ballina,House,Total,490,573,650,152,"1,611",8.02%,4.09%,-11.11%,2.01%
+2019,Second,Ballina,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,House,Not Specified,-,-,-,-,55,-,-,-,-
+2019,Second,Ballina,House,2 Bedrooms,393,420,483,s,162,0.00%,1.20%,-36.84%,-14.29%
+2019,Second,Ballina,House,3 Bedrooms,475,520,600,67,865,0.00%,1.46%,-28.72%,-9.46%
+2019,Second,Ballina,House,4 or more Bedrooms,580,625,660,68,516,4.17%,-0.79%,19.30%,21.43%
+2019,Second,Ballina,Other,Total,269,380,541,32,432,-13.64%,-10.59%,23.08%,10.34%
+2019,Second,Ballina,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Other,1 Bedroom,-,-,-,-,64,-,-,-,-
+2019,Second,Ballina,Other,Not Specified,-,-,-,-,85,-,-,-,-
+2019,Second,Ballina,Other,2 Bedrooms,-,-,-,-,123,-,-,-,-
+2019,Second,Ballina,Other,3 Bedrooms,-,-,-,-,134,-,-,-,-
+2019,Second,Ballina,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Ballina,Townhouse,Total,418,465,535,52,484,-11.43%,-1.06%,23.81%,6.12%
+2019,Second,Ballina,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Townhouse,2 Bedrooms,371,415,466,s,153,0.00%,-1.19%,14.29%,-27.27%
+2019,Second,Ballina,Townhouse,3 Bedrooms,445,495,550,31,288,-10.00%,-11.61%,24.00%,34.78%
+2019,Second,Ballina,Townhouse,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Ballina,Flat/Unit,Total,340,370,430,114,"1,260",-2.63%,-0.67%,0.88%,1.79%
+2019,Second,Ballina,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Ballina,Flat/Unit,1 Bedroom,250,315,380,s,134,13.51%,16.67%,80.00%,38.46%
+2019,Second,Ballina,Flat/Unit,Not Specified,-,-,-,-,46,-,-,-,-
+2019,Second,Ballina,Flat/Unit,2 Bedrooms,329,360,400,70,789,-2.70%,2.86%,-14.63%,1.45%
+2019,Second,Ballina,Flat/Unit,3 Bedrooms,395,483,528,s,277,9.66%,6.04%,46.67%,-18.52%
+2019,Second,Ballina,Flat/Unit,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Balranald,Total,Total,-,-,-,-,114,-,-,-,-
+2019,Second,Balranald,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Total,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Total,2 Bedrooms,-,-,-,-,35,-,-,-,-
+2019,Second,Balranald,Total,3 Bedrooms,-,-,-,-,52,-,-,-,-
+2019,Second,Balranald,Total,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Balranald,House,Total,-,-,-,-,67,-,-,-,-
+2019,Second,Balranald,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,House,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,House,3 Bedrooms,-,-,-,-,42,-,-,-,-
+2019,Second,Balranald,House,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Balranald,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Balranald,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Flat/Unit,Total,-,-,-,-,35,-,-,-,-
+2019,Second,Balranald,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Flat/Unit,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Flat/Unit,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Balranald,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Balranald,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bathurst Regional,Total,Total,278,330,390,399,"4,072",3.13%,3.13%,-6.56%,-5.90%
+2019,Second,Bathurst Regional,Total,Bedsitter,-,-,-,-,49,-,-,-,-
+2019,Second,Bathurst Regional,Total,1 Bedroom,190,215,240,s,310,7.50%,13.16%,-40.43%,-28.21%
+2019,Second,Bathurst Regional,Total,Not Specified,300,350,420,37,512,9.38%,16.67%,-15.91%,76.19%
+2019,Second,Bathurst Regional,Total,2 Bedrooms,250,280,310,103,"1,060",0.00%,3.70%,-5.50%,-12.71%
+2019,Second,Bathurst Regional,Total,3 Bedrooms,310,340,370,134,"1,362",0.00%,3.03%,0.75%,-11.84%
+2019,Second,Bathurst Regional,Total,4 or more Bedrooms,390,420,450,92,779,0.00%,0.00%,1.10%,0.00%
+2019,Second,Bathurst Regional,House,Total,310,370,420,253,"2,328",2.78%,5.71%,-2.69%,1.61%
+2019,Second,Bathurst Regional,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bathurst Regional,House,1 Bedroom,-,-,-,-,31,-,-,-,-
+2019,Second,Bathurst Regional,House,Not Specified,350,390,420,s,274,11.43%,20.93%,-22.22%,110.00%
+2019,Second,Bathurst Regional,House,2 Bedrooms,250,280,310,s,244,-3.45%,0.00%,-28.12%,-32.35%
+2019,Second,Bathurst Regional,House,3 Bedrooms,310,340,378,111,"1,039",-2.86%,0.00%,3.74%,-3.48%
+2019,Second,Bathurst Regional,House,4 or more Bedrooms,390,420,450,90,737,-1.18%,0.00%,4.65%,4.65%
+2019,Second,Bathurst Regional,Other,Total,238,300,341,s,341,-3.23%,11.11%,166.67%,-50.00%
+2019,Second,Bathurst Regional,Other,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Bathurst Regional,Other,1 Bedroom,-,-,-,-,32,-,-,-,-
+2019,Second,Bathurst Regional,Other,Not Specified,-,-,-,-,135,-,-,-,-
+2019,Second,Bathurst Regional,Other,2 Bedrooms,-,-,-,-,60,-,-,-,-
+2019,Second,Bathurst Regional,Other,3 Bedrooms,-,-,-,-,71,-,-,-,-
+2019,Second,Bathurst Regional,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bathurst Regional,Townhouse,Total,310,330,350,s,226,4.76%,4.76%,-17.86%,-17.86%
+2019,Second,Bathurst Regional,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bathurst Regional,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bathurst Regional,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bathurst Regional,Townhouse,2 Bedrooms,310,340,355,s,84,21.43%,21.43%,85.71%,44.44%
+2019,Second,Bathurst Regional,Townhouse,3 Bedrooms,-,-,-,-,113,-,-,-,-
+2019,Second,Bathurst Regional,Townhouse,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bathurst Regional,Flat/Unit,Total,230,260,310,107,"1,177",0.00%,0.00%,-19.55%,-6.96%
+2019,Second,Bathurst Regional,Flat/Unit,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Bathurst Regional,Flat/Unit,1 Bedroom,175,200,235,s,240,0.00%,6.67%,-50.00%,-32.14%
+2019,Second,Bathurst Regional,Flat/Unit,Not Specified,-,-,-,-,93,-,-,-,-
+2019,Second,Bathurst Regional,Flat/Unit,2 Bedrooms,250,270,300,65,672,-1.82%,1.89%,-5.80%,-4.41%
+2019,Second,Bathurst Regional,Flat/Unit,3 Bedrooms,-,-,-,-,139,-,-,-,-
+2019,Second,Bathurst Regional,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Total,Total,298,350,390,227,"2,250",2.94%,2.94%,11.82%,-5.42%
+2019,Second,Bega Valley,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Total,1 Bedroom,180,210,250,s,139,2.44%,5.00%,-22.73%,13.33%
+2019,Second,Bega Valley,Total,Not Specified,-,-,-,-,84,-,-,-,-
+2019,Second,Bega Valley,Total,2 Bedrooms,264,300,321,76,791,0.00%,7.14%,13.43%,-12.64%
+2019,Second,Bega Valley,Total,3 Bedrooms,330,360,400,97,928,-2.70%,0.00%,11.49%,-4.90%
+2019,Second,Bega Valley,Total,4 or more Bedrooms,400,440,458,34,304,-4.35%,10.00%,30.77%,0.00%
+2019,Second,Bega Valley,House,Total,330,360,420,124,"1,195",-5.26%,0.00%,25.25%,-7.46%
+2019,Second,Bega Valley,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,House,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Bega Valley,House,Not Specified,-,-,-,-,34,-,-,-,-
+2019,Second,Bega Valley,House,2 Bedrooms,290,300,350,s,181,-14.29%,-3.23%,54.55%,-19.05%
+2019,Second,Bega Valley,House,3 Bedrooms,340,360,400,68,686,-2.70%,2.86%,9.68%,-13.92%
+2019,Second,Bega Valley,House,4 or more Bedrooms,400,440,460,33,275,-4.35%,10.00%,32.00%,6.45%
+2019,Second,Bega Valley,Other,Total,-,-,-,-,139,-,-,-,-
+2019,Second,Bega Valley,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Other,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Bega Valley,Other,2 Bedrooms,-,-,-,-,46,-,-,-,-
+2019,Second,Bega Valley,Other,3 Bedrooms,-,-,-,-,41,-,-,-,-
+2019,Second,Bega Valley,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bega Valley,Townhouse,Total,320,360,390,s,155,-13.77%,4.35%,-6.25%,-16.67%
+2019,Second,Bega Valley,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Townhouse,2 Bedrooms,-,-,-,-,56,-,-,-,-
+2019,Second,Bega Valley,Townhouse,3 Bedrooms,345,360,393,s,86,-14.29%,-8.86%,-15.38%,57.14%
+2019,Second,Bega Valley,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Flat/Unit,Total,251,300,329,78,761,7.14%,11.11%,-8.24%,-8.24%
+2019,Second,Bega Valley,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bega Valley,Flat/Unit,1 Bedroom,180,210,260,s,109,2.44%,5.00%,-35.00%,-7.14%
+2019,Second,Bega Valley,Flat/Unit,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Bega Valley,Flat/Unit,2 Bedrooms,265,300,320,50,508,3.45%,10.09%,-5.66%,-7.41%
+2019,Second,Bega Valley,Flat/Unit,3 Bedrooms,298,330,408,s,115,8.20%,-5.71%,50.00%,-6.25%
+2019,Second,Bega Valley,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Total,Total,300,360,443,104,837,2.86%,2.86%,2.97%,26.83%
+2019,Second,Bellingen,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Total,1 Bedroom,-,-,-,-,60,-,-,-,-
+2019,Second,Bellingen,Total,Not Specified,-,-,-,-,54,-,-,-,-
+2019,Second,Bellingen,Total,2 Bedrooms,258,300,350,s,210,-3.23%,-6.25%,-15.15%,33.33%
+2019,Second,Bellingen,Total,3 Bedrooms,351,385,440,38,361,0.65%,1.32%,0.00%,22.58%
+2019,Second,Bellingen,Total,4 or more Bedrooms,410,463,498,s,147,6.94%,2.78%,85.71%,36.84%
+2019,Second,Bellingen,House,Total,350,400,458,78,589,5.26%,3.90%,14.71%,34.48%
+2019,Second,Bellingen,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,House,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Bellingen,House,2 Bedrooms,265,305,358,s,99,-14.08%,-8.96%,-12.50%,75.00%
+2019,Second,Bellingen,House,3 Bedrooms,351,385,440,38,327,0.00%,1.32%,8.57%,22.58%
+2019,Second,Bellingen,House,4 or more Bedrooms,410,463,498,s,141,6.94%,2.78%,85.71%,44.44%
+2019,Second,Bellingen,Other,Total,-,-,-,-,69,-,-,-,-
+2019,Second,Bellingen,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Other,Not Specified,-,-,-,-,34,-,-,-,-
+2019,Second,Bellingen,Other,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bellingen,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Townhouse,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Bellingen,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Townhouse,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bellingen,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Flat/Unit,Total,213,235,276,s,154,-9.62%,-6.00%,-28.00%,-14.29%
+2019,Second,Bellingen,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Flat/Unit,1 Bedroom,-,-,-,-,45,-,-,-,-
+2019,Second,Bellingen,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bellingen,Flat/Unit,2 Bedrooms,-,-,-,-,84,-,-,-,-
+2019,Second,Bellingen,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bellingen,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Total,Total,185,240,281,64,536,-6.80%,-4.00%,-11.11%,6.67%
+2019,Second,Berrigan,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Total,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Berrigan,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Berrigan,Total,2 Bedrooms,131,165,210,s,214,-13.16%,-10.81%,41.18%,26.32%
+2019,Second,Berrigan,Total,3 Bedrooms,226,250,284,s,217,-10.71%,-10.71%,-25.71%,-16.13%
+2019,Second,Berrigan,Total,4 or more Bedrooms,260,340,360,s,54,7.94%,7.94%,-21.43%,57.14%
+2019,Second,Berrigan,House,Total,220,250,300,41,309,-12.28%,-11.50%,-19.61%,13.89%
+2019,Second,Berrigan,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,House,2 Bedrooms,-,-,-,-,49,-,-,-,-
+2019,Second,Berrigan,House,3 Bedrooms,229,253,286,s,198,-9.82%,-10.62%,-29.41%,-14.29%
+2019,Second,Berrigan,House,4 or more Bedrooms,260,340,360,s,51,7.94%,7.94%,-21.43%,57.14%
+2019,Second,Berrigan,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Berrigan,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Flat/Unit,Total,120,150,210,s,198,-22.08%,-22.08%,16.67%,-4.55%
+2019,Second,Berrigan,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Berrigan,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Berrigan,Flat/Unit,2 Bedrooms,120,150,210,s,157,-21.05%,-20.00%,38.46%,0.00%
+2019,Second,Berrigan,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Berrigan,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Total,Total,221,250,280,s,264,4.17%,7.53%,-15.38%,-21.43%
+2019,Second,Bland,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Total,1 Bedroom,-,-,-,-,32,-,-,-,-
+2019,Second,Bland,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Bland,Total,2 Bedrooms,-,-,-,-,61,-,-,-,-
+2019,Second,Bland,Total,3 Bedrooms,-,-,-,-,111,-,-,-,-
+2019,Second,Bland,Total,4 or more Bedrooms,-,-,-,-,40,-,-,-,-
+2019,Second,Bland,House,Total,224,253,281,s,167,-9.82%,0.00%,33.33%,0.00%
+2019,Second,Bland,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,House,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bland,House,3 Bedrooms,-,-,-,-,98,-,-,-,-
+2019,Second,Bland,House,4 or more Bedrooms,-,-,-,-,39,-,-,-,-
+2019,Second,Bland,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Bland,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Flat/Unit,Total,-,-,-,-,80,-,-,-,-
+2019,Second,Bland,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Bland,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bland,Flat/Unit,2 Bedrooms,-,-,-,-,41,-,-,-,-
+2019,Second,Bland,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Total,Total,258,288,350,48,432,-4.17%,6.48%,11.63%,-4.00%
+2019,Second,Blayney,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Total,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Blayney,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Blayney,Total,2 Bedrooms,-,-,-,-,87,-,-,-,-
+2019,Second,Blayney,Total,3 Bedrooms,261,288,328,s,200,-0.86%,2.68%,18.18%,-3.70%
+2019,Second,Blayney,Total,4 or more Bedrooms,-,-,-,-,89,-,-,-,-
+2019,Second,Blayney,House,Total,265,300,350,37,310,-6.25%,7.14%,12.12%,2.78%
+2019,Second,Blayney,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,House,2 Bedrooms,-,-,-,-,40,-,-,-,-
+2019,Second,Blayney,House,3 Bedrooms,261,283,325,s,175,-2.59%,0.89%,15.79%,-4.35%
+2019,Second,Blayney,House,4 or more Bedrooms,-,-,-,-,82,-,-,-,-
+2019,Second,Blayney,Other,Total,-,-,-,-,40,-,-,-,-
+2019,Second,Blayney,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Other,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Blayney,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Townhouse,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Blayney,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Flat/Unit,Total,-,-,-,-,70,-,-,-,-
+2019,Second,Blayney,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Blayney,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Flat/Unit,2 Bedrooms,-,-,-,-,41,-,-,-,-
+2019,Second,Blayney,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Blayney,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Total,Total,220,240,290,s,162,-4.00%,-7.69%,-13.33%,44.44%
+2019,Second,Bogan,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Total,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,Total,2 Bedrooms,-,-,-,-,40,-,-,-,-
+2019,Second,Bogan,Total,3 Bedrooms,-,-,-,-,64,-,-,-,-
+2019,Second,Bogan,Total,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,House,Total,230,260,310,s,103,4.00%,0.00%,-15.38%,22.22%
+2019,Second,Bogan,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,House,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,House,3 Bedrooms,-,-,-,-,56,-,-,-,-
+2019,Second,Bogan,House,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Other,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Flat/Unit,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Flat/Unit,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Flat/Unit,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bogan,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bogan,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Total,Total,223,250,300,s,128,19.05%,0.00%,9.09%,84.62%
+2019,Second,Bourke,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Total,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Total,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,Total,3 Bedrooms,238,255,300,s,60,-5.56%,2.00%,50.00%,71.43%
+2019,Second,Bourke,Total,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,House,Total,240,260,300,s,95,4.00%,6.12%,40.00%,110.00%
+2019,Second,Bourke,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,House,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,House,3 Bedrooms,238,255,300,s,55,-5.56%,6.25%,50.00%,100.00%
+2019,Second,Bourke,House,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,Other,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Flat/Unit,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Flat/Unit,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Bourke,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Bourke,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Total,Total,-,-,-,-,47,-,-,-,-
+2019,Second,Brewarrina,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Total,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Total,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Brewarrina,Total,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Brewarrina,Total,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,House,Total,-,-,-,-,32,-,-,-,-
+2019,Second,Brewarrina,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,House,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,House,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Brewarrina,House,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Other,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Brewarrina,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Total,Total,200,240,300,144,"1,616",-4.00%,-4.00%,-5.26%,-4.00%
+2019,Second,Broken Hill,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Total,1 Bedroom,163,193,205,s,181,6.94%,6.94%,38.46%,63.64%
+2019,Second,Broken Hill,Total,Not Specified,-,-,-,-,57,-,-,-,-
+2019,Second,Broken Hill,Total,2 Bedrooms,180,220,240,34,467,0.00%,0.00%,-24.44%,-5.56%
+2019,Second,Broken Hill,Total,3 Bedrooms,220,250,300,77,758,-3.85%,-3.85%,6.94%,-3.75%
+2019,Second,Broken Hill,Total,4 or more Bedrooms,305,320,380,s,153,-5.88%,0.00%,-28.57%,0.00%
+2019,Second,Broken Hill,House,Total,215,250,300,121,"1,221",-3.85%,0.00%,-6.92%,-7.63%
+2019,Second,Broken Hill,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,House,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Broken Hill,House,Not Specified,-,-,-,-,33,-,-,-,-
+2019,Second,Broken Hill,House,2 Bedrooms,199,228,243,s,290,-5.21%,3.41%,-25.00%,-25.00%
+2019,Second,Broken Hill,House,3 Bedrooms,220,250,290,75,722,-3.85%,-3.85%,5.63%,0.00%
+2019,Second,Broken Hill,House,4 or more Bedrooms,305,320,380,s,148,-5.88%,0.00%,-28.57%,7.14%
+2019,Second,Broken Hill,Other,Total,-,-,-,-,61,-,-,-,-
+2019,Second,Broken Hill,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Other,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Broken Hill,Other,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Broken Hill,Other,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Broken Hill,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Townhouse,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Broken Hill,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Flat/Unit,Total,165,185,205,s,322,2.78%,0.00%,0.00%,50.00%
+2019,Second,Broken Hill,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Flat/Unit,1 Bedroom,160,185,205,s,143,2.78%,1.37%,37.50%,37.50%
+2019,Second,Broken Hill,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Broken Hill,Flat/Unit,2 Bedrooms,-,-,-,-,155,-,-,-,-
+2019,Second,Broken Hill,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Broken Hill,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Byron,Total,Total,490,620,750,331,"3,005",5.08%,12.73%,23.05%,12.59%
+2019,Second,Byron,Total,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Byron,Total,1 Bedroom,300,355,435,40,319,-11.25%,-11.25%,-11.11%,-16.67%
+2019,Second,Byron,Total,Not Specified,-,-,-,-,103,-,-,-,-
+2019,Second,Byron,Total,2 Bedrooms,450,510,600,75,691,-2.86%,2.00%,20.97%,-2.60%
+2019,Second,Byron,Total,3 Bedrooms,580,650,750,138,"1,309",0.00%,1.56%,32.69%,15.00%
+2019,Second,Byron,Total,4 or more Bedrooms,683,850,1000,74,570,1.49%,-0.58%,32.14%,54.17%
+2019,Second,Byron,House,Total,575,675,820,205,"1,745",3.85%,5.47%,28.13%,27.33%
+2019,Second,Byron,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Byron,House,1 Bedroom,-,-,-,-,49,-,-,-,-
+2019,Second,Byron,House,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Byron,House,2 Bedrooms,450,495,650,s,211,-10.00%,-6.60%,-21.87%,-7.41%
+2019,Second,Byron,House,3 Bedrooms,580,650,750,99,925,4.84%,4.00%,45.59%,23.75%
+2019,Second,Byron,House,4 or more Bedrooms,683,850,1000,74,530,3.66%,-2.58%,39.62%,68.18%
+2019,Second,Byron,Other,Total,338,498,663,s,243,46.32%,-1.49%,9.09%,20.00%
+2019,Second,Byron,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Byron,Other,1 Bedroom,-,-,-,-,52,-,-,-,-
+2019,Second,Byron,Other,Not Specified,-,-,-,-,56,-,-,-,-
+2019,Second,Byron,Other,2 Bedrooms,-,-,-,-,49,-,-,-,-
+2019,Second,Byron,Other,3 Bedrooms,-,-,-,-,67,-,-,-,-
+2019,Second,Byron,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Byron,Townhouse,Total,540,610,700,41,325,-9.63%,5.63%,28.13%,-10.87%
+2019,Second,Byron,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Byron,Townhouse,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Byron,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Byron,Townhouse,2 Bedrooms,-,-,-,-,82,-,-,-,-
+2019,Second,Byron,Townhouse,3 Bedrooms,578,650,750,s,207,-7.14%,-2.62%,33.33%,0.00%
+2019,Second,Byron,Townhouse,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Byron,Flat/Unit,Total,360,470,580,73,692,4.44%,4.44%,10.61%,-5.19%
+2019,Second,Byron,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Byron,Flat/Unit,1 Bedroom,328,397,455,s,203,-2.10%,4.34%,-22.58%,-11.11%
+2019,Second,Byron,Flat/Unit,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Byron,Flat/Unit,2 Bedrooms,420,500,600,38,349,3.09%,6.95%,80.95%,5.56%
+2019,Second,Byron,Flat/Unit,3 Bedrooms,-,-,-,-,110,-,-,-,-
+2019,Second,Byron,Flat/Unit,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cabonne,Total,Total,248,300,350,40,420,20.00%,14.29%,17.65%,-13.04%
+2019,Second,Cabonne,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Total,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Cabonne,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Cabonne,Total,2 Bedrooms,-,-,-,-,109,-,-,-,-
+2019,Second,Cabonne,Total,3 Bedrooms,280,300,310,s,173,15.38%,11.11%,30.77%,-5.56%
+2019,Second,Cabonne,Total,4 or more Bedrooms,343,350,394,s,89,7.69%,0.00%,75.00%,-6.67%
+2019,Second,Cabonne,House,Total,278,300,350,35,340,15.38%,7.14%,20.69%,2.94%
+2019,Second,Cabonne,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,House,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Cabonne,House,2 Bedrooms,-,-,-,-,72,-,-,-,-
+2019,Second,Cabonne,House,3 Bedrooms,280,300,310,s,162,15.38%,9.09%,30.77%,13.33%
+2019,Second,Cabonne,House,4 or more Bedrooms,340,350,390,s,85,7.69%,6.06%,62.50%,0.00%
+2019,Second,Cabonne,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Cabonne,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,Total,-,-,-,-,54,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,2 Bedrooms,-,-,-,-,32,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cabonne,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Total,Total,220,238,250,s,100,-3.06%,0.00%,16.67%,133.33%
+2019,Second,Carrathool,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Total,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Total,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Carrathool,Total,3 Bedrooms,-,-,-,-,48,-,-,-,-
+2019,Second,Carrathool,Total,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Carrathool,House,Total,210,225,250,s,68,-13.46%,-6.25%,22.22%,175.00%
+2019,Second,Carrathool,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,House,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,House,3 Bedrooms,-,-,-,-,40,-,-,-,-
+2019,Second,Carrathool,House,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Carrathool,Other,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Carrathool,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Total,Total,-,-,-,-,43,-,-,-,-
+2019,Second,Central Darling,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Total,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Total,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Total,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Central Darling,Total,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,House,Total,-,-,-,-,38,-,-,-,-
+2019,Second,Central Darling,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,House,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,House,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Central Darling,House,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Central Darling,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Total,Total,308,365,430,388,"4,197",-1.35%,1.39%,9.30%,1.04%
+2019,Second,Clarence Valley,Total,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Clarence Valley,Total,1 Bedroom,195,220,290,s,331,-20.00%,-13.73%,45.00%,20.83%
+2019,Second,Clarence Valley,Total,Not Specified,-,-,-,-,165,-,-,-,-
+2019,Second,Clarence Valley,Total,2 Bedrooms,273,313,354,86,"1,176",-2.34%,5.93%,-9.47%,-19.63%
+2019,Second,Clarence Valley,Total,3 Bedrooms,340,373,426,204,"1,890",-1.97%,0.68%,26.71%,18.60%
+2019,Second,Clarence Valley,Total,4 or more Bedrooms,400,460,515,62,624,-1.08%,-3.16%,-16.22%,-17.33%
+2019,Second,Clarence Valley,House,Total,340,380,450,266,"2,499",-3.80%,0.00%,20.91%,5.56%
+2019,Second,Clarence Valley,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,House,1 Bedroom,-,-,-,-,40,-,-,-,-
+2019,Second,Clarence Valley,House,Not Specified,-,-,-,-,69,-,-,-,-
+2019,Second,Clarence Valley,House,2 Bedrooms,300,328,373,34,332,2.34%,-3.68%,47.83%,-8.11%
+2019,Second,Clarence Valley,House,3 Bedrooms,345,370,420,165,"1,477",-2.63%,2.78%,34.15%,21.32%
+2019,Second,Clarence Valley,House,4 or more Bedrooms,400,460,505,60,581,-2.65%,-3.16%,-14.29%,-13.04%
+2019,Second,Clarence Valley,Other,Total,-,-,-,-,293,-,-,-,-
+2019,Second,Clarence Valley,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Other,1 Bedroom,-,-,-,-,54,-,-,-,-
+2019,Second,Clarence Valley,Other,Not Specified,-,-,-,-,63,-,-,-,-
+2019,Second,Clarence Valley,Other,2 Bedrooms,-,-,-,-,72,-,-,-,-
+2019,Second,Clarence Valley,Other,3 Bedrooms,-,-,-,-,85,-,-,-,-
+2019,Second,Clarence Valley,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Clarence Valley,Townhouse,Total,318,365,460,s,205,3.55%,1.39%,-21.43%,15.79%
+2019,Second,Clarence Valley,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Townhouse,2 Bedrooms,-,-,-,-,72,-,-,-,-
+2019,Second,Clarence Valley,Townhouse,3 Bedrooms,325,370,473,s,116,-6.33%,-3.90%,11.76%,90.00%
+2019,Second,Clarence Valley,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Flat/Unit,Total,250,290,368,91,"1,200",-10.77%,1.75%,-10.78%,-6.19%
+2019,Second,Clarence Valley,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Clarence Valley,Flat/Unit,1 Bedroom,195,210,283,s,234,-22.22%,-21.50%,41.18%,50.00%
+2019,Second,Clarence Valley,Flat/Unit,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Clarence Valley,Flat/Unit,2 Bedrooms,260,290,353,47,700,-9.37%,5.45%,-25.40%,-17.54%
+2019,Second,Clarence Valley,Flat/Unit,3 Bedrooms,333,393,479,s,212,7.53%,-8.72%,-5.26%,-5.26%
+2019,Second,Clarence Valley,Flat/Unit,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Total,Total,143,200,290,73,615,0.00%,18.98%,-5.19%,-13.10%
+2019,Second,Cobar,Total,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Total,1 Bedroom,-,-,-,-,87,-,-,-,-
+2019,Second,Cobar,Total,Not Specified,-,-,-,-,36,-,-,-,-
+2019,Second,Cobar,Total,2 Bedrooms,143,180,200,s,130,0.00%,0.00%,23.53%,31.25%
+2019,Second,Cobar,Total,3 Bedrooms,180,250,300,s,215,-7.41%,0.00%,0.00%,11.54%
+2019,Second,Cobar,Total,4 or more Bedrooms,164,305,365,s,131,15.09%,81.44%,-40.00%,-47.83%
+2019,Second,Cobar,House,Total,180,250,300,41,334,-3.85%,2.04%,-18.00%,-10.87%
+2019,Second,Cobar,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,House,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,House,3 Bedrooms,218,265,300,s,181,-1.85%,6.00%,-11.11%,9.09%
+2019,Second,Cobar,House,4 or more Bedrooms,164,305,365,s,121,17.31%,32.31%,-36.84%,-40.00%
+2019,Second,Cobar,Other,Total,-,-,-,-,52,-,-,-,-
+2019,Second,Cobar,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Other,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Townhouse,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Townhouse,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Flat/Unit,Total,130,160,200,s,209,-3.03%,13.72%,13.64%,-10.71%
+2019,Second,Cobar,Flat/Unit,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Flat/Unit,1 Bedroom,-,-,-,-,69,-,-,-,-
+2019,Second,Cobar,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cobar,Flat/Unit,2 Bedrooms,147,180,195,s,93,0.00%,0.00%,25.00%,36.36%
+2019,Second,Cobar,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cobar,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coffs Harbour,Total,Total,330,400,460,608,"6,682",-1.23%,5.26%,-4.85%,-12.89%
+2019,Second,Coffs Harbour,Total,Bedsitter,-,-,-,-,s,-,-,-,-
+2019,Second,Coffs Harbour,Total,1 Bedroom,235,285,363,43,446,1.79%,12.87%,-18.87%,-32.81%
+2019,Second,Coffs Harbour,Total,Not Specified,300,350,455,s,305,-9.09%,-12.50%,-6.25%,-50.00%
+2019,Second,Coffs Harbour,Total,2 Bedrooms,293,330,360,215,"2,323",-2.94%,3.13%,6.97%,-4.02%
+2019,Second,Coffs Harbour,Total,3 Bedrooms,395,420,460,210,"2,473",0.00%,5.00%,-10.26%,-17.65%
+2019,Second,Coffs Harbour,Total,4 or more Bedrooms,450,500,555,124,"1,113",-1.96%,1.01%,-6.06%,0.00%
+2019,Second,Coffs Harbour,House,Total,395,445,500,296,"3,127",-1.11%,3.49%,-10.57%,-11.11%
+2019,Second,Coffs Harbour,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coffs Harbour,House,1 Bedroom,-,-,-,-,44,-,-,-,-
+2019,Second,Coffs Harbour,House,Not Specified,-,-,-,-,91,-,-,-,-
+2019,Second,Coffs Harbour,House,2 Bedrooms,330,360,370,37,320,-5.26%,9.09%,5.71%,19.35%
+2019,Second,Coffs Harbour,House,3 Bedrooms,400,420,465,127,"1,641",0.00%,2.44%,-19.62%,-26.16%
+2019,Second,Coffs Harbour,House,4 or more Bedrooms,458,500,556,116,"1,030",-1.96%,1.01%,-4.13%,0.87%
+2019,Second,Coffs Harbour,Other,Total,305,370,430,39,562,4.23%,5.71%,-4.88%,-29.09%
+2019,Second,Coffs Harbour,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coffs Harbour,Other,1 Bedroom,-,-,-,-,51,-,-,-,-
+2019,Second,Coffs Harbour,Other,Not Specified,-,-,-,-,139,-,-,-,-
+2019,Second,Coffs Harbour,Other,2 Bedrooms,280,300,375,s,170,-11.76%,-11.76%,-31.25%,-15.38%
+2019,Second,Coffs Harbour,Other,3 Bedrooms,395,420,450,s,154,7.69%,5.00%,62.50%,8.33%
+2019,Second,Coffs Harbour,Other,4 or more Bedrooms,-,-,-,-,38,-,-,-,-
+2019,Second,Coffs Harbour,Townhouse,Total,350,400,440,89,985,1.27%,8.11%,-19.09%,-15.24%
+2019,Second,Coffs Harbour,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coffs Harbour,Townhouse,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Coffs Harbour,Townhouse,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Coffs Harbour,Townhouse,2 Bedrooms,310,330,363,32,400,-5.71%,0.00%,-28.89%,-27.27%
+2019,Second,Coffs Harbour,Townhouse,3 Bedrooms,390,420,450,53,501,-2.33%,5.00%,-3.64%,0.00%
+2019,Second,Coffs Harbour,Townhouse,4 or more Bedrooms,-,-,-,-,34,-,-,-,-
+2019,Second,Coffs Harbour,Flat/Unit,Total,280,330,366,184,"2,008",3.13%,10.00%,17.20%,-10.24%
+2019,Second,Coffs Harbour,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coffs Harbour,Flat/Unit,1 Bedroom,260,285,380,s,323,0.00%,14.00%,-17.14%,-39.58%
+2019,Second,Coffs Harbour,Flat/Unit,Not Specified,-,-,-,-,54,-,-,-,-
+2019,Second,Coffs Harbour,Flat/Unit,2 Bedrooms,280,330,353,135,"1,433",3.13%,6.45%,28.57%,-0.74%
+2019,Second,Coffs Harbour,Flat/Unit,3 Bedrooms,350,420,460,s,177,5.00%,16.67%,30.77%,-5.56%
+2019,Second,Coffs Harbour,Flat/Unit,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coolamon,Total,Total,150,220,273,s,137,-24.14%,-15.38%,36.36%,15.38%
+2019,Second,Coolamon,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Total,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Total,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coolamon,Total,3 Bedrooms,-,-,-,-,67,-,-,-,-
+2019,Second,Coolamon,Total,4 or more Bedrooms,-,-,-,-,37,-,-,-,-
+2019,Second,Coolamon,House,Total,205,260,303,s,117,-10.34%,-0.95%,0.00%,-8.33%
+2019,Second,Coolamon,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,House,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coolamon,House,3 Bedrooms,-,-,-,-,65,-,-,-,-
+2019,Second,Coolamon,House,4 or more Bedrooms,-,-,-,-,37,-,-,-,-
+2019,Second,Coolamon,Other,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coolamon,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Total,Total,-,-,-,-,174,-,-,-,-
+2019,Second,Coonamble,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Total,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Total,2 Bedrooms,-,-,-,-,43,-,-,-,-
+2019,Second,Coonamble,Total,3 Bedrooms,-,-,-,-,86,-,-,-,-
+2019,Second,Coonamble,Total,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,House,Total,-,-,-,-,132,-,-,-,-
+2019,Second,Coonamble,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,House,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,House,3 Bedrooms,-,-,-,-,79,-,-,-,-
+2019,Second,Coonamble,House,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Coonamble,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Total,Total,210,250,280,67,854,0.00%,4.17%,-26.37%,-1.47%
+2019,Second,Cowra,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Total,1 Bedroom,-,-,-,-,40,-,-,-,-
+2019,Second,Cowra,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,Total,2 Bedrooms,184,213,260,s,308,14.86%,-3.41%,-22.58%,60.00%
+2019,Second,Cowra,Total,3 Bedrooms,245,260,280,s,384,4.00%,4.00%,-32.56%,-19.44%
+2019,Second,Cowra,Total,4 or more Bedrooms,-,-,-,-,95,-,-,-,-
+2019,Second,Cowra,House,Total,240,265,280,42,530,1.92%,6.00%,-25.00%,-2.33%
+2019,Second,Cowra,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,House,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,House,2 Bedrooms,-,-,-,-,80,-,-,-,-
+2019,Second,Cowra,House,3 Bedrooms,250,275,280,s,343,10.00%,10.00%,-39.47%,-30.30%
+2019,Second,Cowra,House,4 or more Bedrooms,-,-,-,-,89,-,-,-,-
+2019,Second,Cowra,Other,Total,-,-,-,-,53,-,-,-,-
+2019,Second,Cowra,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Other,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,Other,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Townhouse,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Townhouse,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Flat/Unit,Total,175,190,223,s,253,2.70%,10.14%,-26.92%,5.56%
+2019,Second,Cowra,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Flat/Unit,1 Bedroom,-,-,-,-,32,-,-,-,-
+2019,Second,Cowra,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Cowra,Flat/Unit,2 Bedrooms,176,188,214,s,196,1.35%,-14.77%,-30.00%,55.56%
+2019,Second,Cowra,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Cowra,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Total,Total,295,350,388,35,359,1.45%,2.94%,9.38%,59.09%
+2019,Second,Dungog,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Total,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Dungog,Total,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Total,2 Bedrooms,-,-,-,-,67,-,-,-,-
+2019,Second,Dungog,Total,3 Bedrooms,335,350,368,s,187,0.00%,-5.41%,43.75%,130.00%
+2019,Second,Dungog,Total,4 or more Bedrooms,-,-,-,-,71,-,-,-,-
+2019,Second,Dungog,House,Total,345,360,400,s,284,1.41%,2.86%,22.73%,58.82%
+2019,Second,Dungog,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,House,2 Bedrooms,-,-,-,-,40,-,-,-,-
+2019,Second,Dungog,House,3 Bedrooms,340,350,371,s,166,0.00%,-7.89%,53.85%,122.22%
+2019,Second,Dungog,House,4 or more Bedrooms,-,-,-,-,68,-,-,-,-
+2019,Second,Dungog,Other,Total,-,-,-,-,s,-,-,-,-
+2019,Second,Dungog,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,Total,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Flat/Unit,Total,-,-,-,-,54,-,-,-,-
+2019,Second,Dungog,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Flat/Unit,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Dungog,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Dungog,Flat/Unit,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Dungog,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Dungog,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Total,Total,151,235,280,86,722,6.82%,17.50%,-9.47%,4.88%
+2019,Second,Edward River,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Total,1 Bedroom,108,120,148,s,67,0.00%,0.00%,-40.00%,-20.00%
+2019,Second,Edward River,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Edward River,Total,2 Bedrooms,140,160,230,s,287,-3.03%,-4.48%,-16.67%,-3.85%
+2019,Second,Edward River,Total,3 Bedrooms,230,260,290,37,275,1.96%,-3.70%,15.63%,8.82%
+2019,Second,Edward River,Total,4 or more Bedrooms,-,-,-,-,74,-,-,-,-
+2019,Second,Edward River,House,Total,250,270,320,53,385,0.00%,0.00%,3.92%,17.78%
+2019,Second,Edward River,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,House,2 Bedrooms,-,-,-,-,52,-,-,-,-
+2019,Second,Edward River,House,3 Bedrooms,245,270,290,35,255,5.88%,0.00%,16.67%,6.06%
+2019,Second,Edward River,House,4 or more Bedrooms,-,-,-,-,73,-,-,-,-
+2019,Second,Edward River,Other,Total,-,-,-,-,40,-,-,-,-
+2019,Second,Edward River,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Other,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Edward River,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Other,2 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Other,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Townhouse,Total,-,-,-,-,31,-,-,-,-
+2019,Second,Edward River,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Townhouse,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Edward River,Townhouse,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Flat/Unit,Total,121,150,200,s,266,1.69%,0.00%,0.00%,-6.25%
+2019,Second,Edward River,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Flat/Unit,1 Bedroom,-,-,-,-,51,-,-,-,-
+2019,Second,Edward River,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Flat/Unit,2 Bedrooms,140,150,173,s,204,0.00%,-6.25%,-15.79%,-23.81%
+2019,Second,Edward River,Flat/Unit,3 Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Edward River,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Total,Total,298,360,405,291,"2,891",-1.37%,2.86%,15.02%,3.19%
+2019,Second,Eurobodalla,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Total,1 Bedroom,191,200,238,s,168,-13.04%,-6.98%,27.27%,-12.50%
+2019,Second,Eurobodalla,Total,Not Specified,-,-,-,-,181,-,-,-,-
+2019,Second,Eurobodalla,Total,2 Bedrooms,270,290,340,101,899,-3.33%,0.00%,31.17%,18.82%
+2019,Second,Eurobodalla,Total,3 Bedrooms,350,380,400,115,"1,205",0.00%,2.70%,5.50%,-12.88%
+2019,Second,Eurobodalla,Total,4 or more Bedrooms,430,480,520,53,430,6.67%,6.67%,6.00%,17.78%
+2019,Second,Eurobodalla,House,Total,350,390,450,164,"1,640",0.00%,2.63%,2.50%,-8.89%
+2019,Second,Eurobodalla,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,House,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Eurobodalla,House,Not Specified,-,-,-,-,56,-,-,-,-
+2019,Second,Eurobodalla,House,2 Bedrooms,320,340,350,31,294,3.03%,7.09%,6.90%,-3.12%
+2019,Second,Eurobodalla,House,3 Bedrooms,350,380,400,76,880,-2.56%,1.33%,-1.30%,-26.21%
+2019,Second,Eurobodalla,House,4 or more Bedrooms,431,480,535,50,390,6.67%,6.67%,2.04%,19.05%
+2019,Second,Eurobodalla,Other,Total,268,290,380,s,235,-15.94%,-17.14%,20.00%,50.00%
+2019,Second,Eurobodalla,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Other,1 Bedroom,-,-,-,-,s,-,-,-,-
+2019,Second,Eurobodalla,Other,Not Specified,-,-,-,-,76,-,-,-,-
+2019,Second,Eurobodalla,Other,2 Bedrooms,-,-,-,-,52,-,-,-,-
+2019,Second,Eurobodalla,Other,3 Bedrooms,-,-,-,-,63,-,-,-,-
+2019,Second,Eurobodalla,Other,4 or more Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Eurobodalla,Townhouse,Total,318,360,398,35,214,0.00%,5.88%,84.21%,150.00%
+2019,Second,Eurobodalla,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Townhouse,2 Bedrooms,260,300,350,s,83,-14.29%,0.00%,85.71%,160.00%
+2019,Second,Eurobodalla,Townhouse,3 Bedrooms,350,380,400,s,117,4.11%,2.70%,75.00%,162.50%
+2019,Second,Eurobodalla,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Flat/Unit,Total,250,280,313,80,802,-0.88%,3.70%,25.00%,0.00%
+2019,Second,Eurobodalla,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Eurobodalla,Flat/Unit,1 Bedroom,188,198,233,s,130,-12.22%,-8.14%,50.00%,-14.29%
+2019,Second,Eurobodalla,Flat/Unit,Not Specified,-,-,-,-,44,-,-,-,-
+2019,Second,Eurobodalla,Flat/Unit,2 Bedrooms,264,278,300,52,470,-0.89%,2.78%,30.00%,15.56%
+2019,Second,Eurobodalla,Flat/Unit,3 Bedrooms,320,350,378,s,145,0.00%,6.06%,-6.67%,-26.32%
+2019,Second,Eurobodalla,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Total,Total,193,248,296,80,875,-1.00%,1.02%,-4.76%,-17.53%
+2019,Second,Federation,Total,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Total,1 Bedroom,-,-,-,-,65,-,-,-,-
+2019,Second,Federation,Total,Not Specified,-,-,-,-,s,-,-,-,-
+2019,Second,Federation,Total,2 Bedrooms,180,230,240,33,327,6.98%,10.84%,-2.94%,-2.94%
+2019,Second,Federation,Total,3 Bedrooms,253,283,300,s,353,0.89%,2.73%,-21.21%,-35.00%
+2019,Second,Federation,Total,4 or more Bedrooms,291,315,335,s,109,3.28%,5.00%,20.00%,-7.69%
+2019,Second,Federation,House,Total,240,270,310,43,467,-3.57%,-3.57%,-10.42%,-14.00%
+2019,Second,Federation,House,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,House,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,House,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,House,2 Bedrooms,-,-,-,-,65,-,-,-,-
+2019,Second,Federation,House,3 Bedrooms,250,280,300,s,291,0.00%,1.82%,-37.50%,-35.48%
+2019,Second,Federation,House,4 or more Bedrooms,291,315,335,s,102,5.00%,5.00%,33.33%,0.00%
+2019,Second,Federation,Other,Total,-,-,-,-,47,-,-,-,-
+2019,Second,Federation,Other,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Other,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Other,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Other,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Federation,Other,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Federation,Other,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Townhouse,Total,-,-,-,-,43,-,-,-,-
+2019,Second,Federation,Townhouse,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Townhouse,1 Bedroom,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Townhouse,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Townhouse,2 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Federation,Townhouse,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Federation,Townhouse,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Flat/Unit,Total,161,185,240,s,318,0.00%,1.37%,-10.34%,-18.75%
+2019,Second,Federation,Flat/Unit,Bedsitter,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Flat/Unit,1 Bedroom,-,-,-,-,62,-,-,-,-
+2019,Second,Federation,Flat/Unit,Not Specified,-,-,-,-,-,-,-,-,-
+2019,Second,Federation,Flat/Unit,2 Bedrooms,180,230,240,s,226,21.05%,19.48%,-13.64%,-20.83%
+2019,Second,Federation,Flat/Unit,3 Bedrooms,-,-,-,-,s,-,-,-,-
+2019,Second,Federation,Flat/Unit,4 or more Bedrooms,-,-,-,-,-,-,-,-,-
