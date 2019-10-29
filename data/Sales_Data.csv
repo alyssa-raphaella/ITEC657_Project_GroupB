@@ -2413,3 +2413,258 @@ No.",Qtly change in Median,Annual change in Median,Qtly change in Count,Annual c
 2016,First,Wagga Wagga,Strata,165,215,275,215,-,-7.3,-6.2,-,-
 2016,First,Shoalhaven,Strata,295,323,370,345,-,2.5,9.0,-,-
 2016,First,Southern Highlands,Strata,450,613,723,584,-,9.9,23.6,-,-
+2015,First,Ashfield,Total,596,723,1344,981,-,-0.9,6.7,-,-
+2015,First,Botany Bay,Total,560,772,1000,840,-,0.1,9.7,-,-
+2015,First,Lane Cove,Total,625,771,1700,1137,-,-21.7,-0.2,-,-
+2015,First,Leichhardt,Total,908,1205,1575,1264,-,-0.4,19.9,-,-
+2015,First,Marrickville,Total,670,873,1170,924,-,0.1,11.9,-,-
+2015,First,Mosman,Total,725,1228,2600,1798,-,-4.8,39.9,-,-
+2015,First,North Sydney,Total,710,908,1326,1146,-,7.8,5.6,-,-
+2015,First,Randwick,Total,660,810,1420,1064,-,-10.2,-0.6,-,-
+2015,First,Sydney,Total,625,800,1050,884,-,-1.2,5.6,-,-
+2015,First,Waverley,Total,825,1200,1838,1711,-,15.9,24.4,-,-
+2015,First,Woollahra,Total,888,1490,2313,1866,-,-6.3,10.4,-,-
+2015,First,Auburn,Total,498,620,778,664,-,-0.9,21.6,-,-
+2015,First,Bankstown,Total,550,710,835,696,-,-0.1,14.9,-,-
+2015,First,Burwood,Total,620,825,1393,1028,-,-3.5,5.8,-,-
+2015,First,Canterbury,Total,417,593,900,669,-,-10.7,11.4,-,-
+2015,First,Canada Bay,Total,735,905,1315,1065,-,-2.9,18.3,-,-
+2015,First,Hunters Hill,Total,805,1570,1950,1620,-,-1.9,20.5,-,-
+2015,First,Hurstville,Total,571,780,1065,847,-,-5.7,5.4,-,-
+2015,First,Kogarah,Total,670,860,1255,975,-,-6.0,26.4,-,-
+2015,First,Ku-ring-gai,Total,930,1430,1891,1484,-,2.1,25.7,-,-
+2015,First,Manly,Total,815,1350,1850,1380,-,11.3,24.4,-,-
+2015,First,Parramatta,Total,523,680,836,710,-,3.0,17.1,-,-
+2015,First,Rockdale,Total,572,670,857,772,-,-4.3,8.1,-,-
+2015,First,Ryde,Total,600,800,1319,979,-,-14.3,7.0,-,-
+2015,First,Strathfield,Total,560,660,1136,931,-,-12.0,9.1,-,-
+2015,First,Willoughby,Total,765,1200,1870,1344,-,-19.7,39.5,-,-
+2015,First,The Hills Shire,Total,843,1000,1238,1048,-,2.0,15.3,-,-
+2015,First,Blacktown,Total,490,585,707,603,-,5.1,21.9,-,-
+2015,First,Blue Mountains,Total,411,490,590,509,-,3.2,9.6,-,-
+2015,First,Camden,Total,540,620,680,627,-,7.3,18.6,-,-
+2015,First,Campbelltown,Total,425,486,560,496,-,5.7,18.8,-,-
+2015,First,Fairfield,Total,455,610,705,592,-,1.7,22.0,-,-
+2015,First,Gosford,Total,438,522,649,565,-,2.4,13.5,-,-
+2015,First,Hawkesbury,Total,465,530,650,579,-,0.2,10.0,-,-
+2015,First,Holroyd,Total,460,637,770,631,-,-0.6,19.0,-,-
+2015,First,Hornsby,Total,707,918,1205,985,-,-1.3,7.9,-,-
+2015,First,Liverpool,Total,481,610,705,599,-,5.2,22.2,-,-
+2015,First,Penrith,Total,450,530,605,534,-,8.2,21.6,-,-
+2015,First,Pittwater,Total,830,1200,1400,1211,-,7.1,15.6,-,-
+2015,First,Sutherland,Total,630,820,1025,865,-,-0.6,12.3,-,-
+2015,First,Warringah,Total,650,1008,1320,1016,-,3.9,21.4,-,-
+2015,First,Wollondilly,Total,458,590,756,631,-,3.5,14.9,-,-
+2015,First,Wyong,Total,350,415,503,435,-,5.1,12.2,-,-
+2015,First,Cessnock,Total,244,285,370,320,-,-6.1,2.7,-,-
+2015,First,Kiama,Total,480,610,745,648,-,-0.3,1.7,-,-
+2015,First,Lake Macquarie,Total,360,440,550,467,-,1.8,7.3,-,-
+2015,First,Maitland,Total,318,376,458,403,-,1.6,3.0,-,-
+2015,First,Newcastle,Total,375,447,540,466,-,-3.7,3.8,-,-
+2015,First,Port Stephens,Total,325,415,527,438,-,5.1,6.4,-,-
+2015,First,Shellharbour,Total,389,450,551,479,-,2.9,7.0,-,-
+2015,First,Wollongong,Total,390,490,625,522,-,-1.1,11.3,-,-
+2015,First,Ashfield,Non Strata,1263,1410,1812,1562,-,15.3,8.0,-,-
+2015,First,Botany Bay,Non Strata,1012,1281,1410,1230,-,18.6,34.5,-,-
+2015,First,Lane Cove,Non Strata,1650,1910,2250,1976,-,8.8,16.6,-,-
+2015,First,Leichhardt,Non Strata,1170,1385,1730,1490,-,0.4,17.3,-,-
+2015,First,Marrickville,Non Strata,938,1123,1337,1135,-,2.0,17.7,-,-
+2015,First,Mosman,Non Strata,2220,2800,3580,3028,-,12.4,14.6,-,-
+2015,First,North Sydney,Non Strata,1600,2100,2920,2338,-,16.3,17.5,-,-
+2015,First,Randwick,Non Strata,1450,1650,2010,1766,-,4.8,4.4,-,-
+2015,First,Sydney,Non Strata,1100,1380,1590,1386,-,17.4,25.5,-,-
+2015,First,Waverley,Non Strata,1625,1910,2482,2133,-,-1.2,3.2,-,-
+2015,First,Woollahra,Non Strata,1620,2300,3525,2790,-,-2.1,2.9,-,-
+2015,First,Auburn,Non Strata,750,900,1105,913,-,-3.0,13.1,-,-
+2015,First,Bankstown,Non Strata,708,798,880,788,-,4.4,19.0,-,-
+2015,First,Burwood,Non Strata,1200,1400,1750,1444,-,6.9,9.4,-,-
+2015,First,Canterbury,Non Strata,800,955,1135,955,-,9.8,15.1,-,-
+2015,First,Canada Bay,Non Strata,1375,1600,1820,1614,-,9.2,25.5,-,-
+2015,First,Hunters Hill,Non Strata,1575,1820,2575,2096,-,-24.2,14.3,-,-
+2015,First,Hurstville,Non Strata,920,1073,1250,1094,-,4.9,12.9,-,-
+2015,First,Kogarah,Non Strata,1003,1210,1455,1252,-,-6.9,12.0,-,-
+2015,First,Ku-ring-gai,Non Strata,1430,1705,2138,1817,-,3.3,15.1,-,-
+2015,First,Manly,Non Strata,1691,1865,2335,1977,-,11.2,14.8,-,-
+2015,First,Parramatta,Non Strata,751,860,1003,897,-,2.4,15.0,-,-
+2015,First,Rockdale,Non Strata,923,1100,1300,1102,-,9.6,18.7,-,-
+2015,First,Ryde,Non Strata,1241,1400,1605,1456,-,7.6,21.7,-,-
+2015,First,Strathfield,Non Strata,1136,1476,2205,1573,-,-10.6,2.8,-,-
+2015,First,Willoughby,Non Strata,1555,1903,2300,1932,-,5.1,15.7,-,-
+2015,First,The Hills Shire,Non Strata,945,1096,1305,1148,-,2.4,20.4,-,-
+2015,First,Blacktown,Non Strata,533,615,735,636,-,3.4,21.8,-,-
+2015,First,Blue Mountains,Non Strata,420,500,605,521,-,4.2,11.1,-,-
+2015,First,Camden,Non Strata,545,621,685,635,-,6.2,17.2,-,-
+2015,First,Campbelltown,Non Strata,455,510,580,525,-,6.7,19.9,-,-
+2015,First,Fairfield,Non Strata,595,661,740,664,-,3.4,19.1,-,-
+2015,First,Gosford,Non Strata,470,560,680,607,-,1.8,12.0,-,-
+2015,First,Hawkesbury,Non Strata,480,558,700,606,-,1.1,11.6,-,-
+2015,First,Holroyd,Non Strata,683,751,850,761,-,2.9,20.1,-,-
+2015,First,Hornsby,Non Strata,932,1140,1340,1164,-,3.6,18.8,-,-
+2015,First,Liverpool,Non Strata,590,650,745,667,-,3.2,16.6,-,-
+2015,First,Penrith,Non Strata,507,560,630,575,-,7.7,18.4,-,-
+2015,First,Pittwater,Non Strata,1159,1303,1500,1395,-,3.9,10.9,-,-
+2015,First,Sutherland,Non Strata,875,1003,1230,1077,-,5.3,16.2,-,-
+2015,First,Warringah,Non Strata,1176,1318,1470,1351,-,5.4,13.9,-,-
+2015,First,Wollondilly,Non Strata,490,610,770,649,-,5.2,13.4,-,-
+2015,First,Wyong,Non Strata,362,430,516,451,-,5.1,11.7,-,-
+2015,First,Cessnock,Non Strata,246,295,380,329,-,-4.7,2.2,-,-
+2015,First,Kiama,Non Strata,573,665,815,717,-,2.3,-0.7,-,-
+2015,First,Lake Macquarie,Non Strata,369,456,565,478,-,2.5,8.6,-,-
+2015,First,Maitland,Non Strata,325,380,465,395,-,1.6,1.3,-,-
+2015,First,Newcastle,Non Strata,390,455,556,485,-,-4.8,1.1,-,-
+2015,First,Port Stephens,Non Strata,355,435,550,458,-,3.6,3.6,-,-
+2015,First,Shellharbour,Non Strata,403,484,585,500,-,5.2,10.8,-,-
+2015,First,Wollongong,Non Strata,425,530,670,565,-,-1.5,11.5,-,-
+2015,First,Ashfield,Strata,565,620,700,626,-,-3.9,4.1,-,-
+2015,First,Botany Bay,Strata,538,630,785,661,-,0.0,0.4,-,-
+2015,First,Lane Cove,Strata,578,649,744,673,-,-3.2,-0.2,-,-
+2015,First,Leichhardt,Strata,600,838,1130,882,-,11.1,22.7,-,-
+2015,First,Marrickville,Strata,580,661,720,652,-,6.5,10.1,-,-
+2015,First,Mosman,Strata,601,763,945,810,-,-1.6,8.9,-,-
+2015,First,North Sydney,Strata,675,846,1050,908,-,9.9,6.5,-,-
+2015,First,Randwick,Strata,615,712,813,727,-,-5.1,2.4,-,-
+2015,First,Sydney,Strata,605,756,925,809,-,0.8,6.8,-,-
+2015,First,Waverley,Strata,760,930,1291,1530,-,8.1,15.2,-,-
+2015,First,Woollahra,Strata,775,1010,1580,1259,-,2.0,9.3,-,-
+2015,First,Auburn,Strata,465,543,634,556,-,3.3,20.6,-,-
+2015,First,Bankstown,Strata,433,498,613,523,-,1.3,14.4,-,-
+2015,First,Burwood,Strata,550,630,775,660,-,-8.0,5.0,-,-
+2015,First,Canterbury,Strata,380,443,562,477,-,-2.7,5.9,-,-
+2015,First,Canada Bay,Strata,683,798,930,825,-,0.4,14.6,-,-
+2015,First,Hunters Hill,Strata,673,742,1065,847,-,-24.1,1.0,-,-
+2015,First,Hurstville,Strata,500,590,712,609,-,0.5,11.3,-,-
+2015,First,Kogarah,Strata,592,672,770,686,-,9.3,13.9,-,-
+2015,First,Ku-ring-gai,Strata,660,765,956,832,-,0.8,8.4,-,-
+2015,First,Manly,Strata,680,870,1250,1034,-,-1.4,1.5,-,-
+2015,First,Parramatta,Strata,472,540,636,561,-,2.0,15.1,-,-
+2015,First,Rockdale,Strata,550,630,705,637,-,9.4,16.7,-,-
+2015,First,Ryde,Strata,545,630,730,641,-,1.6,4.8,-,-
+2015,First,Strathfield,Strata,530,600,667,614,-,4.3,12.9,-,-
+2015,First,Willoughby,Strata,668,778,880,806,-,-15.6,4.4,-,-
+2015,First,The Hills Shire,Strata,600,700,785,693,-,4.5,15.7,-,-
+2015,First,Blacktown,Strata,385,425,488,439,-,1.2,7.2,-,-
+2015,First,Blue Mountains,Strata,300,319,366,324,-,-10.2,-1.1,-,-
+2015,First,Camden,Strata,405,430,570,463,-,13.2,14.6,-,-
+2015,First,Campbelltown,Strata,335,373,410,377,-,9.7,17.3,-,-
+2015,First,Fairfield,Strata,362,397,450,405,-,5.9,22.2,-,-
+2015,First,Gosford,Strata,355,424,490,436,-,9.0,14.0,-,-
+2015,First,Hawkesbury,Strata,380,413,455,413,-,0.6,25.6,-,-
+2015,First,Holroyd,Strata,420,460,500,472,-,7.2,17.9,-,-
+2015,First,Hornsby,Strata,585,649,775,671,-,3.8,13.6,-,-
+2015,First,Liverpool,Strata,350,396,448,404,-,-1.1,5.5,-,-
+2015,First,Penrith,Strata,347,397,429,386,-,4.2,16.6,-,-
+2015,First,Pittwater,Strata,670,720,830,748,-,0.0,9.6,-,-
+2015,First,Sutherland,Strata,531,625,720,639,-,-0.8,12.6,-,-
+2015,First,Warringah,Strata,573,650,730,678,-,0.8,7.4,-,-
+2015,First,Wollondilly,Strata,305,349,400,357,-,-,21.3,-,-
+2015,First,Wyong,Strata,274,320,403,344,-,3.2,6.7,-,-
+2015,First,Cessnock,Strata,172,250,300,230,-,-15.3,8.7,-,-
+2015,First,Kiama,Strata,330,441,540,453,-,4.8,2.4,-,-
+2015,First,Lake Macquarie,Strata,315,361,430,378,-,3.1,3.1,-,-
+2015,First,Maitland,Strata,285,350,398,466,-,22.8,14.8,-,-
+2015,First,Newcastle,Strata,315,393,480,400,-,-3.1,-1.6,-,-
+2015,First,Port Stephens,Strata,285,330,408,363,-,-4.3,-2.7,-,-
+2015,First,Shellharbour,Strata,343,377,414,375,-,8.6,18.7,-,-
+2015,First,Wollongong,Strata,355,417,520,440,-,-2.0,4.8,-,-
+2015,First,Goulburn - Yass,Total,233,305,409,348,-,-4.7,3.4,-,-
+2015,First,Queanbeyan,Total,350,488,620,498,-,4.3,10.4,-,-
+2015,First,Snowy Mountains,Total,193,267,360,324,-,-1.8,-0.2,-,-
+2015,First,South Coast,Total,298,365,462,385,-,1.4,3.2,-,-
+2015,First,Bathurst,Total,270,332,370,321,-,0.6,1.4,-,-
+2015,First,Lachlan Valley,Total,157,225,280,244,-,10.6,36.4,-,-
+2015,First,Lithgow - Mudgee,Total,200,278,374,305,-,-0.7,-0.7,-,-
+2015,First,Orange,Total,250,314,422,340,-,-4.9,-0.1,-,-
+2015,First,Clarence Valley,Total,250,310,380,325,-,-2.6,-44.2,-,-
+2015,First,Coffs Harbour,Total,307,385,487,405,-,1.8,3.2,-,-
+2015,First,Bourke - Cobar - Coonamble,Total,60,130,200,176,-,-14.8,18.2,-,-
+2015,First,Broken Hill and Far West,Total,77,131,220,150,-,4.8,35.1,-,-
+2015,First,Dubbo,Total,210,275,355,290,-,-0.5,5.8,-,-
+2015,First,Lower Hunter,Total,252,320,429,362,-,-3.0,3.2,-,-
+2015,First,Upper Hunter,Total,243,303,368,332,-,-5.5,0.8,-,-
+2015,First,Great Lakes,Total,289,349,464,384,-,1.2,9.1,-,-
+2015,First,Kempsey - Nambucca,Total,225,285,365,301,-,-1.7,-5.0,-,-
+2015,First,Port Macquarie,Total,329,399,489,418,-,-4.0,0.9,-,-
+2015,First,Taree - Gloucester,Total,253,328,420,352,-,6.7,23.3,-,-
+2015,First,Albury,Total,205,273,358,291,-,4.0,5.5,-,-
+2015,First,Lower Murray,Total,110,165,331,224,-,-8.3,-31.3,-,-
+2015,First,Upper Murray exc. Albury,Total,160,220,298,242,-,-13.2,2.3,-,-
+2015,First,Armidale,Total,259,346,435,368,-,8.9,20.3,-,-
+2015,First,Inverell - Tenterfield,Total,171,250,655,380,-,-5.7,32.6,-,-
+2015,First,Moree - Narrabri,Total,175,270,374,292,-,0.4,10.2,-,-
+2015,First,Tamworth - Gunnedah,Total,230,305,382,327,-,5.0,6.8,-,-
+2015,First,Richmond Valley - Coastal,Total,420,530,673,584,-,6.0,11.6,-,-
+2015,First,Richmond Valley - Hinterland,Total,240,305,400,341,-,-3.2,-2.2,-,-
+2015,First,Tweed Valley,Total,326,422,538,442,-,1.7,5.5,-,-
+2015,First,Griffith - Murrumbidgee (West),Total,160,228,298,238,-,-10.8,5.6,-,-
+2015,First,Tumut - Tumbarumba,Total,150,208,370,248,-,-4.6,1.7,-,-
+2015,First,Wagga Wagga,Total,208,270,370,297,-,-0.9,-1.8,-,-
+2015,First,Shoalhaven,Total,301,375,465,407,-,0.3,3.4,-,-
+2015,First,Southern Highlands,Total,428,600,780,644,-,7.0,16.5,-,-
+2015,First,Goulburn - Yass,Non Strata,240,314,415,353,-,-3.4,4.6,-,-
+2015,First,Queanbeyan,Non Strata,428,540,689,561,-,-1.6,0.9,-,-
+2015,First,Snowy Mountains,Non Strata,215,313,425,377,-,4.2,17.9,-,-
+2015,First,South Coast,Non Strata,316,380,470,400,-,0.7,2.7,-,-
+2015,First,Bathurst,Non Strata,285,339,373,332,-,-1.5,-0.3,-,-
+2015,First,Lachlan Valley,Non Strata,155,225,280,237,-,12.5,36.9,-,-
+2015,First,Lithgow - Mudgee,Non Strata,203,280,380,309,-,-0.2,0.2,-,-
+2015,First,Orange,Non Strata,265,320,427,347,-,-6.4,0.6,-,-
+2015,First,Clarence Valley,Non Strata,255,320,385,334,-,0.3,0.0,-,-
+2015,First,Coffs Harbour,Non Strata,350,429,522,451,-,3.4,4.6,-,-
+2015,First,Bourke - Cobar - Coonamble,Non Strata,60,130,195,168,-,-14.9,20.9,-,-
+2015,First,Broken Hill and Far West,Non Strata,75,117,220,149,-,-6.8,20.1,-,-
+2015,First,Dubbo,Non Strata,210,280,355,282,-,-0.2,6.3,-,-
+2015,First,Lower Hunter,Non Strata,260,322,430,360,-,-2.4,2.2,-,-
+2015,First,Upper Hunter,Non Strata,245,320,375,336,-,0.0,11.1,-,-
+2015,First,Great Lakes,Non Strata,300,373,491,401,-,2.1,6.4,-,-
+2015,First,Kempsey - Nambucca,Non Strata,229,285,360,299,-,-5.0,-5.0,-,-
+2015,First,Port Macquarie,Non Strata,373,436,532,458,-,-3.2,1.4,-,-
+2015,First,Taree - Gloucester,Non Strata,275,355,430,365,-,10.9,27.0,-,-
+2015,First,Albury,Non Strata,222,292,365,304,-,-2.7,10.2,-,-
+2015,First,Lower Murray,Non Strata,120,180,313,216,-,-3.5,-24.5,-,-
+2015,First,Upper Murray exc. Albury,Non Strata,162,228,310,250,-,-12.8,3.4,-,-
+2015,First,Armidale,Non Strata,266,356,450,376,-,11.3,19.1,-,-
+2015,First,Inverell - Tenterfield,Non Strata,145,202,268,233,-,-6.0,7.2,-,-
+2015,First,Moree - Narrabri,Non Strata,195,270,374,297,-,0.0,10.2,-,-
+2015,First,Tamworth - Gunnedah,Non Strata,230,303,378,315,-,4.3,4.3,-,-
+2015,First,Richmond Valley - Coastal,Non Strata,475,595,735,640,-,9.6,13.3,-,-
+2015,First,Richmond Valley - Hinterland,Non Strata,255,313,390,332,-,-2.3,-0.1,-,-
+2015,First,Tweed Valley,Non Strata,419,495,610,517,-,4.8,10.0,-,-
+2015,First,Griffith - Murrumbidgee (West),Non Strata,160,228,300,238,-,-11.6,2.2,-,-
+2015,First,Tumut - Tumbarumba,Non Strata,153,213,370,252,-,-0.6,-0.7,-,-
+2015,First,Wagga Wagga,Non Strata,215,278,374,302,-,-0.4,-1.6,-,-
+2015,First,Shoalhaven,Non Strata,310,380,470,413,-,0.0,2.7,-,-
+2015,First,Southern Highlands,Non Strata,442,605,795,640,-,6.1,16.9,-,-
+2015,First,Goulburn - Yass,Strata,175,208,230,269,-,-3.7,-,-,-
+2015,First,Queanbeyan,Strata,220,303,360,294,-,-8.9,-5.5,-,-
+2015,First,Snowy Mountains,Strata,157,205,268,211,-,2.5,-23.8,-,-
+2015,First,South Coast,Strata,213,270,355,314,-,14.9,12.5,-,-
+2015,First,Bathurst,Strata,188,226,300,242,-,-7.1,-8.9,-,-
+2015,First,Lachlan Valley,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Lithgow - Mudgee,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Orange,Strata,175,200,254,218,-,0.2,-,-,-
+2015,First,Clarence Valley,Strata,220,269,300,270,-,-14.6,-63.0,-,-
+2015,First,Coffs Harbour,Strata,215,267,334,288,-,1.0,-2.9,-,-
+2015,First,Bourke - Cobar - Coonamble,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Broken Hill and Far West,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Dubbo,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Lower Hunter,Strata,205,260,385,387,-,-11.9,10.9,-,-
+2015,First,Upper Hunter,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Great Lakes,Strata,259,330,385,346,-,8.2,26.9,-,-
+2015,First,Kempsey - Nambucca,Strata,180,250,429,313,-,14.3,5.0,-,-
+2015,First,Port Macquarie,Strata,257,295,350,309,-,-5.1,-3.1,-,-
+2015,First,Taree - Gloucester,Strata,175,253,298,275,-,2.8,37.9,-,-
+2015,First,Albury,Strata,150,205,280,244,-,15.2,14.5,-,-
+2015,First,Lower Murray,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Upper Murray exc. Albury,Strata,140,170,225,183,-,-19.6,-16.5,-,-
+2015,First,Armidale,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Inverell - Tenterfield,Strata,665,805,832,723,-,1.7,-,-,-
+2015,First,Moree - Narrabri,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Tamworth - Gunnedah,Strata,252,525,750,565,-,69.4,183.8,-,-
+2015,First,Richmond Valley - Coastal,Strata,320,423,530,467,-,-1.6,11.0,-,-
+2015,First,Richmond Valley - Hinterland,Strata,176,279,615,383,-,9.2,1.0,-,-
+2015,First,Tweed Valley,Strata,283,323,397,347,-,-2.0,-3.3,-,-
+2015,First,Griffith - Murrumbidgee (West),Strata,-,-,-,-,-,-,-,-,-
+2015,First,Tumut - Tumbarumba,Strata,-,-,-,-,-,-,-,-,-
+2015,First,Wagga Wagga,Strata,194,228,275,256,-,-8.1,6.3,-,-
+2015,First,Shoalhaven,Strata,258,295,350,321,-,11.2,19.9,-,-
+2015,First,Southern Highlands,Strata,379,496,700,677,-,-5.6,-2.8,-,-
