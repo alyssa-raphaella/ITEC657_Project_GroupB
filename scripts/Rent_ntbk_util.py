@@ -252,7 +252,7 @@ for x in range(4):
     stats_df.index = stats_df['Model']
     stats_df = stats_df.drop('Model',
                 axis = 1)
-    
+
 ### Top LGAs according to New Signed Bonds ###
 ## remove Total column from LGA, and get unique LGA values 
 sort_df = rent_df[rent_df['LGA']!='Total']
@@ -313,7 +313,7 @@ top_nbmean_arr=[]
 
 for x in range(len(top_NB)):
     name = top_NB[x]
-    top_nbmean_df = rent_df[rent_df['LGA']==top_mean[x]].sort_values(by="Mean QNB", ascending = False)
+    top_nbmean_df = rent_df[rent_df['LGA']==top_NB[x]].sort_values(by="Mean QNB", ascending = False)
     top_nbmean_df = top_nbmean_df[top_nbmean_df['Dwelling Type'] == 'Total']
     top_nbmean_df = top_nbmean_df[top_nbmean_df['Bedroom Number'] == 'Total']
     top_nbmean_df = top_nbmean_df.sort_values(by=['Year', 'Quarter']) 
