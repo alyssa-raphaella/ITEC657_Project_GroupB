@@ -33,7 +33,7 @@ sort_df = sales_df[sales_df['LGA']!='Total']
 top_mean = sort_df.sort_values(by="Mean Sales Price", ascending = False)['LGA'].unique()[:10]
 top_mean_arr = []
 
-## Get the Mean QNB per quarter and year of top LGA for graphing 
+## Get the Mean Sales Price per quarter and year of top LGA for graphing 
 for x in range(len(top_mean)):
     name = top_mean[x]
     top_mean_df = sales_df[sales_df['LGA']==top_mean[x]].sort_values(by="Mean Sales Price", ascending = False)
@@ -89,7 +89,7 @@ sort_df = sales_df[sales_df['LGA']!='Total']
 top_NB = sort_df.sort_values(by="Sales Number", ascending = False)['LGA'].unique()[:10]
 top_NB_arr = []
 
-## Get the Mean QNB per quarter and year of top LGA for graphing 
+## Get the Number of Sales per quarter and year of top LGA for graphing 
 for x in range(len(top_NB)):
     name = top_NB[x]
     top_NB_df = sales_df[sales_df['LGA']==top_NB[x]].sort_values(by="Sales Number", ascending = False)
@@ -132,7 +132,7 @@ for x in range(len(top_NB)):
     top_NB_arr.append((name, Q1_15, Q2_15, Q3_15, Q4_15, Q1_16, Q2_16, Q3_16, Q4_16, 
                     Q1_17, Q2_17, Q3_17, Q4_17, Q1_18, Q2_18, Q3_18, Q4_18))
 
-## Get the Mean QNB per quarter and year of top LGA for graphing
+## Get the Mean Sales Price per quarter and year of top LGA for graphing
 top_nbmean_arr=[]
 
 for x in range(len(top_NB)):
@@ -212,6 +212,6 @@ for x in range(len(year)):
     name = 'Non Strata'
     bond_count_arr.append((yr, ns, name))
 
-### FLAT: number of bedrooms most people buy ###
+### DF for dwelling type sales count ###
 bond_count_df = pd.DataFrame.from_records(bond_count_arr)
 bond_count_df.columns = ['Year', 'Count', 'Dwelling Type']
